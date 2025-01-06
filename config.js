@@ -1,6 +1,6 @@
 
 JWT_SECRET = 'Artha@31'; 
-MONGO_URL = 'mongodb+srv://kishorel632:krish123@cluster0.bnp6rj9.mongodb.net/Paytm?retryWrites=true&w=majority'
+MONGO_URL = 'mongodb+srv://krishpatell632:krish123@cluster0.bnp6rj9.mongodb.net/Paytm?retryWrites=true&w=majority'
 PORT = 3098 ; 
 
 
